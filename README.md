@@ -1,9 +1,4 @@
-### Hello! My name is Raquel Wetzel 👋
-
-- 🔭 I’m currently working on Front end
-- 🌱 I’m currently studying React.js
-
-
+### Hello! My name is Raquel Wetzel and I'm developer front-end based in Lisbon!
 
 <div align="center">
   <a href="https://github.com/Wraquel">
