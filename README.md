@@ -1,4 +1,4 @@
-### Hello! My name is Raquel Wetzel and I'm front-end developer base in Lisbon!
+### Hello! My name is Raquel. I'm front-end developer based in Lisbon!
 
 <div align="center">
   <a href="https://github.com/Wraquel">
