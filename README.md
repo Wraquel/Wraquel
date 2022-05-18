@@ -1,5 +1,8 @@
 ### Hello! My name is Raquel. I'm front-end developer based in Lisbon!
 
+📫 You can e-mail me: raquelwetzel@gmail.com
+💻 Check out my website: raqueldev.com
+
 <div align="center">
   <a href="https://github.com/Wraquel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wraquel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
