@@ -1,4 +1,4 @@
-### Hello! My name is Raquel. I'm Software Engineer specialized in Frontend based in Lisbon!
+### Hello! My name is Raquel. I'm Software Engineer based in Lisbon!
 
 📫 You can e-mail me: raquelwetzel@gmail.com
 
